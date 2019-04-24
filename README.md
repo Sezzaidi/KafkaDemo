@@ -1,2 +1,2 @@
 # KafkaDemo
-This is a demo of Kafka
+This is a demo of Kafka project
